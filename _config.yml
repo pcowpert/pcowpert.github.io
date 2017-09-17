@@ -4,7 +4,7 @@ theme: minima
 gems:
   - jekyll-feed
 
-name: Philip Cowperthwaite
+title: Philip Cowperthwaite
 description: Connecting Gravitational Wave and Electromagnetic Astronomy
 
 # Includes an icon in the footer for each username you enter
