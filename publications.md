@@ -34,7 +34,7 @@ extract all of that magic. -->
 #pwpubs_ref { width: 2ex; }
 #pwpubs td.tauth { padding-right: 2ex; }
 #pwpubs_ads, #pwpubs_arxiv, #pwpubs_doi, #pwpubs_direct { width: 10ex; }
-.pwpubs_title { font-size: larger; }
+.pwpubs_title { font-size: larger; padding-right: 2ex; }
 .pwpubs_ftitle { font-size: larger; font-weight: bold; }
 .pwpubs_auth { font-style: italic; }
     </style>
