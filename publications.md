@@ -4,7 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<!DOCTYPE html>
 <!-- This work is dedicated to the public domain. -->
 
 <!-- Peter Williams' HTML template for a publications list
@@ -27,7 +26,7 @@ extract all of that magic. -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Philip S. Cowperthwaite: Publications</title> <!--XXX-->
     <style type="text/css" media="all">
-#container { width: 80%; margin: auto; }
+#container { width: 150%; margin: auto; }
 #pwpubs { border-collapse: collapse; }
 #pwpubs tr { vertical-align: top; border-top: 1px #777 solid; }
 #pwpubs td { padding-bottom: 10px; }
