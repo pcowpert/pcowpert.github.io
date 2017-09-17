@@ -12,137 +12,136 @@ Research Interests
 + Theoretical modeling of optical transients associated with binary neutron star mergers  (e.g., kilonovae).
 + General time-domain astrophysics: contamination in optical surveys, survey design and optimization,
 rapid timescale transients.
-+ Large-scale astronomy image processing and pipeline development for surveys.
++ Large-scale astronomy image processing and pipeline development for surveys.  
 
 Contact Information
 -------------------
-Philip Cowperthwaite
+Philip Cowperthwaite  
 Harvard University
 
-+e-mail - pcowpert@cfa.harvard.edu
-+office - +617-495-4141 
-+Post - 
-
-   60 Garden Street
-   MS-10
-   Cambridge, MA 02138
++ e-mail - pcowpert@cfa.harvard.edu
++ office - + 617-495-4141 
++ Post -
+   60 Garden Street  
+   MS-10  
+   Cambridge, MA 02138  
 
 Education
 ---------
-+**Harvard University**, Cambridge, Massachusettes USA
++ **Harvard University**, Cambridge, Massachusettes USA
 
-   *M.S., Astronomy, Spring 2015
-   *Ph.D., Astronomy, Expected Spring 2018
+   * M.S., Astronomy (Spring 2015)
+   * Ph.D., Astronomy (Expected: Spring 2018)
 
-+**The University of Maryland at College Park**, College Park, Maryland USA
++ **The University of Maryland at College Park**, College Park, Maryland USA
 
-   *B.S., *Summa Cum Laude*, Astronomy with High Honors, Spring 2013
-   *B.S., *Summa Cum Laude*, Physics, Spring 2013
+   * B.S., *Summa Cum Laude*, Astronomy with High Honors (Spring 2013)
+   * B.S., *Summa Cum Laude*, Physics (Spring 2013)  
 
 Awards
 ------
-+**Harvard University**
++ **Harvard University**
 
-   *Merit Fellowship (2017–2018)
-   *John Parker Bequest Grant (2017–2018)
-   *John P. and Carol J. Merrill Graduate Fellow (2014–15)
+   * Merit Fellowship (2017–2018)
+   * John Parker Bequest Grant (2017–2018)
+   * John P. and Carol J. Merrill Graduate Fellow (2014–15)
 
-+**National Science Foundation**
++ **National Science Foundation**
 
-   *Graduate Research Fellowship (2013–18)
+   * Graduate Research Fellowship (2013–18)
 
-+**University of Maryland, College Park**
++ **University of Maryland, College Park**
 
-   *University Medal Finalist (2013)
-   *J.R. Dorfman Prize for Outstanding Undergraduate Research (2013)
+   * University Medal Finalist (2013)
+   * J.R. Dorfman Prize for Outstanding Undergraduate Research (2013)
 
-+**The State of Maryland**
++ **The State of Maryland**
 
-   *Howard P. Rawlings Grant (2010–12)
-   *Maryland Delegates Grant (2010–12)
+   * Howard P. Rawlings Grant (2010–12)
+   * Maryland Delegates Grant (2010–12)  
 
 
 Research Experience
 -------------------
-+**NSF Graduate Research Fellow**, Harvard University
++ **NSF Graduate Research Fellow**, Harvard University
 
-   *Optical Follow-Up of Graviational Wave Events (Fall 2013 to Present)
+   * Optical Follow-Up of Graviational Wave Events (Fall 2013 to Present)
 
-+**REU Summer Research Internship**, Smithsonian Astrophysical Observatory
++ **REU Summer Research Internship**, Smithsonian Astrophysical Observatory
 
-   *Infrared Spectroscopy of Blazars (Summer 2012)
+   * Infrared Spectroscopy of Blazars (Summer 2012)
 
-+**Undergraduate Research Assistant**, The University of Maryland, College Park
++ **Undergraduate Research Assistant**, The University of Maryland, College Park
 
-   *Numerical Simulations of Accretion Flows (Fall 2012 - Summer 2013)
-   *X-Ray Spectroscopy of Active Galactic Nuclei (Fall 2010 - Spring 2012)
-   *Visualizations of Black Hole Accretion Flows (Spring 2010 - Fall 2010)
+   * Numerical Simulations of Accretion Flows (Fall 2012 - Summer 2013)
+   * X-Ray Spectroscopy of Active Galactic Nuclei (Fall 2010 - Spring 2012)
+   * Visualizations of Black Hole Accretion Flows (Spring 2010 - Fall 2010)
 
-+**CRESST Summer Research Internship**, NASA/Goddard Space Flight Center
++ **CRESST Summer Research Internship**, NASA/Goddard Space Flight Center
 
-   *Visualizations of Merging Black Hole Binaries (Summer 2011)
+   * Visualizations of Merging Black Hole Binaries (Summer 2011)  
 
 Observational Experience 
 ------------------------
-+**Blanco Telescope**, Cerro Tololo Inter-American Observatory, Chile
++ **Blanco Telescope**, Cerro Tololo Inter-American Observatory, Chile
 
-   *DECam – DES-GW LIGO Follow-up (2017B Semester) – 20 hours
-   *DECam – DES-GW LIGO Follow-up (2017A Semester) – 25 hours
-   *DECam – DES-GW LIGO Follow-up (2016B Semester) – 50 hours
-   *DECam – DES-GW LIGO Follow-up (2015B Semester) – 30 hours
+   * DECam – DES-GW LIGO Follow-up (2017B Semester) – 20 hours
+   * DECam – DES-GW LIGO Follow-up (2017A Semester) – 25 hours
+   * DECam – DES-GW LIGO Follow-up (2016B Semester) – 50 hours
+   * DECam – DES-GW LIGO Follow-up (2015B Semester) – 30 hours
 
-+**Magellan Telescope**, Las Campanas Observatory, Chile
++ **Magellan Telescope**, Las Campanas Observatory, Chile
 
-   *Clay 6.5m – LDSS3-C – 3 nights
-   *Baade 6.5m – IMACS – 8 nights
+   * Clay 6.5m – LDSS3-C – 3 nights
+   * Baade 6.5m – IMACS – 8 nights
 
-+**MMT**, Fred Lawrence Whipple Observatory, USA
++ **MMT**, Fred Lawrence Whipple Observatory, USA
 
-   *BlueChannel – 3 nights
+   * BlueChannel – 3 nights  
 
 Mentoring Experience
 --------------------
-+**Harvard University**, Cambridge, Massachusettes USA
++ **Harvard University**, Cambridge, Massachusettes USA
    *Research Advisor for Undergraduates*
 
-   *Mahlet Shiferaw – Galaxy Catalogs for GW/EM Targeted Follow-Up – Summer 2017
-   *Samuel Liu – Data Science Techniques for Light Curve Analysis – Summer 2016
+   * Mahlet Shiferaw – Galaxy Catalogs for GW/EM Targeted Follow-Up (Summer 2017)
+   * Samuel Liu – Data Science Techniques for Light Curve Analysis (Summer 2016)  
 
 Teaching Experience
 -------------------
-+**Harvard University**, Cambridge, Massachusettes USA
++ **Harvard University**, Cambridge, Massachusettes USA
    *Graduate Teaching Fellow*
 
-   *Astronomy 16 - Stellar and Planetary Astronomy - Spring 2016
-   *Astronomy 200 - Radiative Proceses - Spring 2014
+   * Astronomy 16 - Stellar and Planetary Astronomy  (Spring 2016)
+   * Astronomy 200 - Radiative Proceses  (Spring 2014)
 
-+**University of Maryland, College Park**, College Park, Maryland USA
++ **University of Maryland, College Park**, College Park, Maryland USA
    *Undergraduate Teaching Assistant*
 
-   *Astronomy 100 - Introduction to Astronomy - Fall 2011 to Spring 2013
-   *Astronomy 120 - Introductory Astrophysics - Fall 2012 (Grader)
+   * Astronomy 100 - Introduction to Astronomy  (Fall 2011 - Spring 2013)
+   * Astronomy 120 - Introductory Astrophysics  (Fall 2012; Grader)  
 
 Publication Summary
 -------------------
 As of September 17, 2007 I am an author on 13 refereed publications (5 as first author), my *h*-index 
-is 11 and my refereed publications have 360 citations.
+is 11 and my refereed publications have 360 citations.  
 
 A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Presentation Summary
 --------------------
-As of September 17, 2007 I have given 12 presentations of which 9 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv.pdf) of my CV.
+As of September 17, 2007 I have given 12 presentations of which 9 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv.pdf) of my CV.  
 
 References
 ----------
-+Prof. Edo Berger (e-mail: eberger@cfa.harvard.edu; phone: +617-495-7914)
++ Prof. Edo Berger (e-mail: eberger@cfa.harvard.edu; phone: +617-495-7914)
    Professor, Astronomy, Harvard University
 
-+Prof. Brian Metzger (e-mail: bdm2129@columbia.edu; phone: +212-854-9702)
++ Prof. Brian Metzger (e-mail: bdm2129@columbia.edu; phone: +212-854-9702)
    Assistant Professor, Department of Physics, Columbia University
 
-+Prof. Daniel E. Holz (e-mail: dholz@uchicago.edu; phone: +773-834-3306)
++ Prof. Daniel E. Holz (e-mail: dholz@uchicago.edu; phone: +773-834-3306)
    Associate Professor, KICP, The University of Chicago
 
-+Prof. Daniel Eisenstein (e-mail: deisenstein@cfa.harvard.edu; phone: +617-495-7530)
++ Prof. Daniel Eisenstein (e-mail: deisenstein@cfa.harvard.edu; phone: +617-495-7530)
    Professor, Astronomy, Harvard University
