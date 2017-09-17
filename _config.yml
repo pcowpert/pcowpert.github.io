@@ -8,11 +8,9 @@ title: Philip Cowperthwaite
 description: Connecting Gravitational Wave and Electromagnetic Astronomy
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  email: pcowpert@cfa.harvard.edu
-  github: pcowpert
-  twitter: PCowperthwaite
-  rss: pcowpert
+email: pcowpert@cfa.harvard.edu
+github_username: pcowpert
+twitter_username: PCowperthwaite
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
