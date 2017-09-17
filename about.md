@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I'm Philip Cowperthwaite, a fifth year graduate student in Astronomy and Astrophysics at Harvard University. I work with my thesis advisor Prof. Edo Berger on electromagnetic follow-up of gravitational wave events detected by the Advanced LIGO and Virgo instruments. 
+I am a fifth year graduate student at the Harvard-Smithsonian Center for Astrophysics. My research interests are mainly in the area of electromagnetic follow-up of gravitational wave events detected by the Advanced LIGO and VIRGO instruments. In a previous life I was a filmmaker and photographer, working in and around Baltimore, MD and Washington D.C. 
+
+Contact Me
+-----------
++ E-mail - pcowpert@cfa.harvard.edu
++ Office - +617-495-4141 
++ Post - 60 Garden Street, MS-10, Cambridge, MA 02138 
