@@ -1,6 +1,9 @@
-#theme: jekyll-theme-midnight
+markdown: kramdown
 theme: minima
 
+gems:
+  - jekyll-feed
+  
 title: Philip Cowperthwaite Astronomy
 name: Philip Cowperthwaite
 description: Connecting Gravitational Wave and Electromagnetic Astronomy
