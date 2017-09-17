@@ -46,7 +46,7 @@ extract all of that magic. -->
       I am an author on 13 refereed publications (5 as first author), my <i>h</i>-index 
       is 11 and my refereed publications have 360 citations.
       <br><br>
-      A PDF version of this publications list can be found <a href="http://pscastro.com/files/pcowpert_pub.pdf">here</a>
+      A PDF version of this publications list can be found <a href="http://pscastro.com/files/pcowpert_pubs.pdf">here</a>
       </p>
 
 <!-- well this is less than ideal, but whatever. -->
