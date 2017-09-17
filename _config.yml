@@ -1,12 +1,12 @@
+markdown: kramdown
 theme: jekyll-theme-midnight
 
 name: Philip Cowperthwaite
-
-description: Software Developer from Toronto
+description: Connecting Gravitational Wave and Electromagnetic Astronomy
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: jordanxu2014@gmail.com 
+  email: pcowpert@cfa.harvard.edu
   github: pcowpert
   twitter: PCowperthwaite
   rss: pcowpert
