@@ -4,4 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-This page will eventually contain descriptions of my current and past research
+# CURRENTLY UNDER CONSTRUCTION ##
+
+# Current Work
+EM/GW astronomy 
+
+# Previous Work
+UMD with Chris Reynolds
