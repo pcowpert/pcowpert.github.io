@@ -1,4 +1,22 @@
 theme: jekyll-theme-midnight
 
-title: Philip Cowperthwaite Astronomy 
-description: A lightweight landing page for those interested in my research.
+name: Philip Cowperthwaite
+
+description: Software Developer from Toronto
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: jordanxu2014@gmail.com 
+  github: pcowpert
+  twitter: PCowperthwaite
+  rss: pcowpert
+
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: http://pcowpert.github.io
+
+# Exclude these files from your production _site
+exclude:
+    - LICENSE
+    - README.md
