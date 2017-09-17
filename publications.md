@@ -43,8 +43,6 @@ extract all of that magic. -->
       Sep 17, 2017. First-author works are indicated by their 
       <span style="font-weight: bold">bold titles</span>.
       You can find my <a href="http://pscastro.com/cv">complete CV</a> here.
-      Square brackets show my <a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> 
-      citation counts as of Sep 17, 2017.
       I am an author on 13 refereed publications (5 as first author), my <i>h</i>-index 
       is 11 and my refereed publications have 360 citations.
       <br><br>
