@@ -77,3 +77,5 @@ refereed publications (5 as first author), my <i>h</i>-index was
     </div>
   </body>
 </html>
+
+This publication list was generated using the amazing [worklog-tools](https://github.com/pkgw/worklog-tools/) by [Peter K. G. Williams](https://newton.cx/~peter/).
