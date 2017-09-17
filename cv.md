@@ -4,6 +4,4 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-This page will eventually hold a nice web-friendly version of my CV. But in the meantime you can download a nice PDF version here! 
-
-[CV (PDF, Updated: 2015-10-16)](/files/pcowpert_cv.pdf)
+Below is a summary of my Curriculum Vitae as of September 17, 2017. You can also obtain a [PDF version](/files/pcowpert_cv.pdf) of this information. A complete can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).

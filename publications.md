@@ -19,8 +19,6 @@ templates. My actual publication list is embedded in a Wordpress site that
 does a bunch of the CSS fanciness automatically, and it'd be a lot of work to
 extract all of that magic. -->
 
-
-
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -41,21 +39,20 @@ extract all of that magic. -->
   </head>
   <body>
     <div id="container">
-      <p>Below is an list of my publications, updated as of
-Sep 17, 2017.
-      First-author works have their <span style="font-weight: bold">titles in
-      bold</span>; refereed works are marked with a guillemet (»).
-      The names of directly-supervised students are underlined.
-      My <a href="http://pscastro.com/cv">full CV</a> is also online.
-<a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets and were last updated
-around Sep 17, 2017. As of then, I was an author on 13
-refereed publications (5 as first author), my <i>h</i>-index was
-11 and my refereed publications had 360 citations.
+      <p>Below is a list of my refereed publications, updated as of
+      Sep 17, 2017. First-author works are indicated by their 
+      <span style="font-weight: bold">bold titles</span>.
+      You can find my <a href="http://pscastro.com/cv">complete CV</a> here.
+      Square brackers show my <a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> 
+      citation counts as of Sep 17, 2017.
+      <br> 
+      I am an author on 13 refereed publications (5 as first author), my <i>h</i>-index 
+      is 11 and my refereed publications have 360 citations.
+      <br>
+      A PDF version of this publications list can be found <a href="http://pscastro.com/files/pcowpert_pub.pdf">here</a>
       </p>
 
 <!-- well this is less than ideal, but whatever. -->
-
-
       <table id="pwpubs">
 	<col id="pwpubs_date" /> <col id="pwpubs_ref" /> <col id="pwpubs_tauth" />
 	<col id="pwpubs_ads" /> <col id="pwpubs_arxiv" /> <col id="pwpubs_doi" /> <col id="pwpubs_direct" />
@@ -73,9 +70,8 @@ refereed publications (5 as first author), my <i>h</i>-index was
 <tr><td>2013 Nov</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>Identification of New Gamma-Ray Blazar Candidates with Multifrequency Archival Observations</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite et al.</span> • AJ 146 110</td><td><a href="http://adsabs.harvard.edu/abs/2013AJ....146..110C">abstract</a></td><td><a href="http://arxiv.org/abs/1308.1950">preprint</a></td><td><a href="http://dx.doi.org/10.1088/0004-6256/146/5/110">official</a></td><td></td></tr>
 <tr><td>2012 Jun</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>The Central Engine Structure of 3C120: Evidence for a Retrograde Black Hole or a Refilling Accretion Disk</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite &amp; Reynolds</span> • ApJL 752 L21</td><td><a href="http://adsabs.harvard.edu/abs/2012ApJ...752L..21C">abstract</a></td><td><a href="http://arxiv.org/abs/1205.3175">preprint</a></td><td><a href="http://dx.doi.org/10.1088/2041-8205/752/2/L21">official</a></td><td></td></tr>
       </table>
-
     </div>
   </body>
 </html>
 
-This publication list was generated using the amazing [worklog-tools](https://github.com/pkgw/worklog-tools/) by [Peter K. G. Williams](https://newton.cx/~peter/).
+This publication list was generated using the amazing [worklog-tools](https://github.com/pkgw/worklog-tools/) and associated html/PDF templates created by [Peter K. G. Williams](https://newton.cx/~peter/). Check out his amazing contributions to scientific software!  
