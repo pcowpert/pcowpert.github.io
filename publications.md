@@ -46,7 +46,7 @@ Sep 17, 2017.
       First-author works have their <span style="font-weight: bold">titles in
       bold</span>; refereed works are marked with a guillemet (»).
       The names of directly-supervised students are underlined.
-      My <a href="pscastro.com/cv">full CV</a> is also online.
+      My <a href="http://pscastro.com/cv">full CV</a> is also online.
 <a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets and were last updated
 around Sep 17, 2017. As of then, I was an author on 13
 refereed publications (5 as first author), my <i>h</i>-index was
