@@ -9,7 +9,7 @@ I have no doubt that, long before you came across this little blog post, you hea
 
 I hope find the time to write about this monumental event in more detail sometime in the future, but for now you can find everything related to our groups work, including complete drafts of papers, here:
 
-[![Alt text](/files/knorgbanner.jpg)](http://kilonova.org/)
+[![kilonova.org](/files/knorgbanner.jpg)](http://kilonova.org/)
 
 
-[![Alt text](/files/des_logo.png)](https://www.darkenergysurvey.org/)
+[![DES-GW Papers](/files/des_logo.png)](https://www.darkenergysurvey.org/des-gravitational-waves-papers/)
