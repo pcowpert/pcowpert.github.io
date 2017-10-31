@@ -49,7 +49,7 @@ Oct 30, 2017.
       bold</span>; refereed works are marked with a guillemet (»).
       <br>
       <br>
-      My <a href="pscastro.com/cv">full CV</a> is also online.
+      My <a href="http://pscastro.com/cv">full CV</a> is also online.
 <a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets. I am an author on 26
 refereed publications (7 as first author), my <i>h</i>-index is
 11 and my refereed publications have 423 citations.
