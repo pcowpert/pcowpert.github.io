@@ -23,7 +23,7 @@ Contact Information
 Education
 ---------
 + **Harvard University**, Cambridge, Massachusettes USA
-   * M.S., Astronomy (Spring 2015)
+   * M.A., Astronomy (Spring 2015)
    * Ph.D., Astronomy (Expected: Spring 2018)  
 
 + **The University of Maryland at College Park**, College Park, Maryland USA
