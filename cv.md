@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-Below is a summary of my Curriculum Vitae as of September 17, 2017. You can also obtain a [PDF version](/files/pcowpert_cv.pdf) of this information. A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
+Below is a summary of my Curriculum Vitae as of October 30, 2017. You can also obtain a [PDF version](/files/pcowpert_cv_full.pdf) of this information. A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Research Interests
 ------------------
@@ -101,14 +101,14 @@ Teaching Experience
 
 Publication Summary
 -------------------
-As of October 19, 2017 I am an author on 26 refereed publications (7 as first author), my *h*-index 
-is 11 and my refereed publications have 388 citations.  
+As of October 30, 2017 I am an author on 26 refereed publications (7 as first author), my *h*-index 
+is 11 and my refereed publications have 423 citations.  
 
 A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Presentation Summary
 --------------------
-As of October 19, 2017 I have given 16 presentations of which 13 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
+As of October 30, 2017 I have given 17 presentations of which 14 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv_full.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
 
 References
 ----------
