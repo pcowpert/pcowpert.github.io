@@ -19,81 +19,149 @@ templates. My actual publication list is embedded in a Wordpress site that
 does a bunch of the CSS fanciness automatically, and it'd be a lot of work to
 extract all of that magic. -->
 
-
-
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Philip S. Cowperthwaite: Publications</title> <!--XXX-->
+    <title>Peter Williams: Curriculum vitae</title> <!--XXX-->
     <style type="text/css" media="all">
-#container { width: 105%; margin: auto; }
-#pwpubs { border-collapse: collapse; }
-#pwpubs tr { vertical-align: top; border-top: 1px #777 solid; }
-#pwpubs td { padding-bottom: 10px; }
-#pwpubs_date { width: 12ex; }
-#pwpubs_ref { width: 2ex; }
-#pwpubs td.tauth { padding-right: 2ex; }
-#pwpubs_ads, #pwpubs_arxiv, #pwpubs_doi, #pwpubs_direct { width: 10ex; }
-.pwpubs_title { font-size: larger; }
-.pwpubs_ftitle { font-size: larger; font-weight: bold; }
-.pwpubs_auth { font-style: italic; }
+#container { width: 80%; margin: auto; }
+.cv { border-collapse: collapse; }
+.cv tr { vertical-align: top; }
+.cv td { padding-bottom: 10px; color: rgb(68, 68, 68); font-size: 1rem; }
+.cv_spec { width: 17ex; }
+.cv_inst { font-style: italic; }
+.cv_title { font-style: italic; }
+p.pwcv_ref { text-indent: -3ex; margin-left: 3ex; }
+a.pwcv_pub:visited, a.pwcv_pub:link { text-decoration: none; }
+a.pwcv_pub:hover { text-decoration: underline; }
     </style>
   </head>
   <body>
     <div id="container">
-      <p>Complete list of my publications, updated as of
-Nov 9, 2017.
-      <br>
-      <br>
-      First-author works have their <span style="font-weight: bold">titles in
-      bold</span>; refereed works are marked with a guillemet (»).
-      <br>
-      <br>
-      My <a href="pscastro.com/cv">full CV</a> is also online.
-<a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets. I am an author on 29
-refereed publications (7 as first author), my <i>h</i>-index is
-16 and my refereed publications have 574 citations.
-      </p>
+      <h1>Peter Williams: Curriculum vitae</h1> <!--XXX-->
 
-<!-- well this is less than ideal, but whatever. -->
+      <p>Updated
+Nov 16, 2017.
+</p>
 
+      <h3>Contact Information</h3>
 
-      <table id="pwpubs">
-  <col id="pwpubs_date" /> <col id="pwpubs_ref" /> <col id="pwpubs_tauth" />
-  <col id="pwpubs_ads" /> <col id="pwpubs_arxiv" /> <col id="pwpubs_doi" /> <col id="pwpubs_direct" />
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Complete Ultraviolet, Optical, and Near-Infrared Light Curves of the Kilonova Associated with the Binary Neutron Star Merger GW170817: Homogenized Data Set, Analytic Models, and Physical Implications</span> <br><span class="pwpubs_auth">Villar et al.</span> • arxiv:1710.11576</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171011576V">abstract</a></td><td><a href="http://arxiv.org/abs/1710.11576">preprint</a></td><td></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Improved constraints on H0 from a combined analysis of gravitational-wave and electromagnetic emission from GW170817</span> <br><span class="pwpubs_auth">Guidorzi et al.</span> • arxiv:1710.06426</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171006426G">abstract</a></td><td><a href="http://arxiv.org/abs/1710.06426">preprint</a></td><td></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">How Many Kilonovae Can Be Found in Past, Present, and Future Survey Datasets?</span> <br><span class="pwpubs_auth">Scolnic et al.</span> • arxiv:1710.05845</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171005845S">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05845">preprint</a></td><td></td><td></td></tr>
-<tr><td>2017 Nov</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">A gravitational-wave standard siren measurement of the Hubble constant</span> <br><span class="pwpubs_auth">Abbott et al.</span> • \nat 551 85-88</td><td><a href="http://adsabs.harvard.edu/abs/2017Natur.551...85A">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05835">preprint</a></td><td><a href="http://dx.doi.org/10.1038/nature24471">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. I. Dark Energy Camera Discovery of the Optical Counterpart</span> <br><span class="pwpubs_auth">Soares-Santos et al.</span> • arxiv:1710.05459</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171005459S">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05459">preprint</a></td><td></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>An Empirical Study of Contamination in Deep, Rapid, and Wide-Field Optical Follow-Up of Gravitational Wave Events</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite et al.</span> • arxiv:1710.02144</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171002144C">abstract</a></td><td><a href="http://arxiv.org/abs/1710.02144">preprint</a></td><td></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. VIII. A Comparison to Cosmological Short-duration Gamma-Ray Bursts</span> <br><span class="pwpubs_auth">Fong et al.</span> • ApJL 848 L23</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..23F">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05438">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9018">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. VII. Properties of the Host Galaxy and Constraints on the Merger Timescale</span> <br><span class="pwpubs_auth">Blanchard et al.</span> • ApJL 848 L22</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..22B">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05458">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9055">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. VI. Radio Constraints on a Relativistic Jet and Predictions for Late-time Emission from the Kilonova Ejecta</span> <br><span class="pwpubs_auth">Alexander et al.</span> • ApJL 848 L21</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..21A">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05457">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa905d">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. V. Rising X-Ray Emission from an Off-axis Jet</span> <br><span class="pwpubs_auth">Margutti et al.</span> • ApJL 848 L20</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..20M">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05431">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9057">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. IV. Detection of Near-infrared Signatures of r-process Nucleosynthesis with Gemini-South</span> <br><span class="pwpubs_auth">Chornock et al.</span> • ApJL 848 L19</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..19C">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05454">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa905c">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. III. Optical and UV Spectra of a Blue Kilonova from Fast Polar Ejecta</span> <br><span class="pwpubs_auth">Nicholl et al.</span> • ApJL 848 L18</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..18N">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05456">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9029">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. II. UV, Optical, and Near-infrared Light Curves and Comparison to Kilonova Models</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite et al.</span> • ApJL 848 L17</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..17C">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05840">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa8fc7">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. I. Discovery of the Optical Counterpart Using the Dark Energy Camera</span> <br><span class="pwpubs_auth">Soares-Santos et al.</span> • ApJL 848 L16</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..16S">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9059">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Multi-messenger Observations of a Binary Neutron Star Merger</span> <br><span class="pwpubs_auth">Abbott et al.</span> • ApJL 848 L12</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..12A">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05833">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa91c9">official</a></td><td></td></tr>
-<tr><td>2016 Nov</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">PS1-14bj: A Hydrogen-poor Superluminous Supernova With a Long Rise and Slow Decay</span> <br><span class="pwpubs_auth">Lunnan et al.</span> • ApJ 831 144</td><td><a href="http://adsabs.harvard.edu/abs/2016ApJ...831..144L">abstract</a></td><td><a href="http://arxiv.org/abs/1605.05235">preprint</a></td><td><a href="http://dx.doi.org/10.3847/0004-637X/831/2/144">official</a></td><td></td></tr>
-<tr><td>2016 Sep</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Superluminous Supernova SN 2015bn in the Nebular Phase: Evidence for the Engine-powered Explosion of a Stripped Massive Star</span> <br><span class="pwpubs_auth">Nicholl et al.</span> • ApJL 828 L18</td><td><a href="http://adsabs.harvard.edu/abs/2016ApJ...828L..18N">abstract</a></td><td><a href="http://arxiv.org/abs/1608.02995">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8205/828/2/L18">official</a></td><td></td></tr>
-<tr><td>2016 Aug</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>A DECam Search for an Optical Counterpart to the LIGO Gravitational-wave Event GW151226</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite et al.</span> • ApJL 826 L29</td><td><a href="http://adsabs.harvard.edu/abs/2016ApJ...826L..29C">abstract</a></td><td><a href="http://arxiv.org/abs/1606.04538">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8205/826/2/L29">official</a></td><td></td></tr>
-<tr><td>2016 Jul</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Supplement: Localization and Broadband Follow-up of the Gravitational-wave Transient GW150914 (2016, ApJL, 826, L13)</span> <br><span class="pwpubs_auth">Abbott et al.</span> • ApJS 225 8</td><td><a href="http://adsabs.harvard.edu/abs/2016ApJS..225....8A">abstract</a></td><td><a href="http://arxiv.org/abs/1604.07864">preprint</a></td><td><a href="http://dx.doi.org/10.3847/0067-0049/225/1/8">official</a></td><td></td></tr>
-<tr><td>2016 Jul</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Localization and Broadband Follow-up of the Gravitational-wave Transient GW150914</span> <br><span class="pwpubs_auth">Abbott et al.</span> • ApJL 826 L13</td><td><a href="http://adsabs.harvard.edu/abs/2016ApJ...826L..13A">abstract</a></td><td><a href="http://arxiv.org/abs/1602.08492">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8205/826/1/L13">official</a></td><td></td></tr>
-<tr><td>2016 Jul</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">SN 2015BN: A Detailed Multi-wavelength View of a Nearby Superluminous Supernova</span> <br><span class="pwpubs_auth">Nicholl et al.</span> • ApJ 826 39</td><td><a href="http://adsabs.harvard.edu/abs/2016ApJ...826...39N">abstract</a></td><td><a href="http://arxiv.org/abs/1603.04748">preprint</a></td><td><a href="http://dx.doi.org/10.3847/0004-637X/826/1/39">official</a></td><td></td></tr>
-<tr><td>2016 Jun</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">A Dark Energy Camera Search for Missing Supergiants in the LMC after the Advanced LIGO Gravitational-wave Event GW150914</span> <br><span class="pwpubs_auth">Annis et al.</span> • ApJL 823 L34</td><td><a href="http://adsabs.harvard.edu/abs/2016ApJ...823L..34A">abstract</a></td><td><a href="http://arxiv.org/abs/1602.04199">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8205/823/2/L34">official</a></td><td></td></tr>
-<tr><td>2016 Jun</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">A Dark Energy Camera Search for an Optical Counterpart to the First Advanced LIGO Gravitational Wave Event GW150914</span> <br><span class="pwpubs_auth">Soares-Santos et al.</span> • ApJL 823 L33</td><td><a href="http://adsabs.harvard.edu/abs/2016ApJ...823L..33S">abstract</a></td><td><a href="http://arxiv.org/abs/1602.04198">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8205/823/2/L33">official</a></td><td></td></tr>
-<tr><td>2015 Nov</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>A Comprehensive Study of Detectability and Contamination in Deep Rapid Optical Searches for Gravitational Wave Counterparts</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite &amp; Berger</span> • ApJ 814 25</td><td><a href="http://adsabs.harvard.edu/abs/2015ApJ...814...25C">abstract</a></td><td><a href="http://arxiv.org/abs/1503.07869">preprint</a></td><td><a href="http://dx.doi.org/10.1088/0004-637X/814/1/25">official</a></td><td></td></tr>
-<tr><td>2015 May</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">ATel 7532: KISS: Discovery and Identification of a young SN Ia KISS15n in the Coma cluster</span> <br><span class="pwpubs_auth">Morokuma et al.</span> • ?</td><td><a href="http://adsabs.harvard.edu/abs/2015ATel.7532....1M">abstract</a></td><td></td><td></td><td></td></tr>
-<tr><td>2014 Aug</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>Nonlinear Dynamics of Accretion Disks with Stochastic Viscosity</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite &amp; Reynolds</span> • ApJ 791 126</td><td><a href="http://adsabs.harvard.edu/abs/2014ApJ...791..126C">abstract</a></td><td><a href="http://arxiv.org/abs/1407.2615">preprint</a></td><td><a href="http://dx.doi.org/10.1088/0004-637X/791/2/126">official</a></td><td></td></tr>
-<tr><td>2014 Jul</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Low-frequency Radio Catalog of Flat-spectrum Sources</span> <br><span class="pwpubs_auth">Massaro et al.</span> • ApJS 213 3</td><td><a href="http://adsabs.harvard.edu/abs/2014ApJS..213....3M">abstract</a></td><td><a href="http://arxiv.org/abs/1503.03483">preprint</a></td><td><a href="http://dx.doi.org/10.1088/0067-0049/213/1/3">official</a></td><td></td></tr>
-<tr><td>2013 Nov</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>Identification of New Gamma-Ray Blazar Candidates with Multifrequency Archival Observations</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite et al.</span> • AJ 146 110</td><td><a href="http://adsabs.harvard.edu/abs/2013AJ....146..110C">abstract</a></td><td><a href="http://arxiv.org/abs/1308.1950">preprint</a></td><td><a href="http://dx.doi.org/10.1088/0004-6256/146/5/110">official</a></td><td></td></tr>
-<tr><td>2012 Jun</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>The Central Engine Structure of 3C120: Evidence for a Retrograde Black Hole or a Refilling Accretion Disk</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite &amp; Reynolds</span> • ApJL 752 L21</td><td><a href="http://adsabs.harvard.edu/abs/2012ApJ...752L..21C">abstract</a></td><td><a href="http://arxiv.org/abs/1205.3175">preprint</a></td><td><a href="http://dx.doi.org/10.1088/2041-8205/752/2/L21">official</a></td><td></td></tr>
+      <table class="cv">
+  <col class="cv_spec" /> <col class="cv_content" />
+  <!-- XXX obviously all the contact info needs customization ... -->
+  <tr>
+    <td>Email</td>
+    <td><span class="cv_email"><a href="mailto:pwilliams@cfa.harvard.edu">pwilliams@cfa.harvard.edu</a></span></td>
+  </tr><tr>
+    <td>Mobile</td>
+    <td>+1 617 922 2689</td>
+  </tr><tr>
+    <td>Post</td>
+    <td>Harvard-Smithsonian Center for Astrophysics<br>
+      60 Garden St. MS-20<br>
+      Cambridge, MA 01238</td>
+  </tr>
       </table>
 
+      <h3>Education</h3>
+      <table class="cv">
+  <col class="cv_spec" /> <col class="cv_content" />
+  <!-- Entered manually to get extra PhD info simply. -->
+  <tr>
+    <td>2012</td>
+    <td><i>University of California, Berkeley</i><br>
+      Ph.D. (Astrophysics) <br>
+      Dissertation: <a href="http://newton.cx/~peter/dissertation/">“Exploring
+        the Dynamic Radio Sky with the Allen Telescope Array”</a>
+      (adviser: Geoff Bower)</td>
+  </tr><tr>
+    <td>2008</td>
+    <td><i>University of California, Berkeley</i><br>
+      M.A. (Astrophysics)</td>
+  </tr><tr>
+    <td>2006</td>
+    <td><i>Harvard College</i><br>
+      B.A. (Astronomy &amp; Astrophysics and Physics) with honors,
+      magna cum laude</td>
+  </tr>
+      </table>
+
+
+
+      <h3>Employment</h3>
+      <table class="cv">
+  <col class="cv_spec" /> <col class="cv_content" />
+      </table>
+
+      <h3>Fellowships and Awards</h3>
+      <table class="cv">
+  <col class="cv_spec" /> <col class="cv_content" />
+      </table>
+
+      <!-- XXX ditto for these ... -->
+      <h3>Research Interests</h3>
+      <ul>
+  <li>Magnetic activity of low-mass stars and brown dwarfs</li>
+  <li>The dynamic radio sky: overall properties, known and potential sources,
+    surveys</li>
+  <li>Radio interferometric software, analysis and techniques</li>
+      </ul>
+
+      <h3>Observing Experience</h3>
+      <ul>
+  <li>Centimeter radio interferometry (Allen Telescope Array, VLA)</li>
+  <li>X-ray and UV imaging (<i>Chandra</i>, <i>Swift</i>)</li>
+  <li>Optical imaging and spectroscopy (CTIO/Blanco&nbsp;4m, Lick/Shane&nbsp;3m,
+    Lick/Nickel&nbsp;1m, Lick/CAT&nbsp;1m)</li>
+      </ul>
+
+
+
+      <h3>Professional Talks — Invited</h3>
+      <table class="cv">
+  <col class="cv_spec" /> <col class="cv_content" />
+<tr><td>2017 Nov</td><td><i>BHI Journal Club, Harvard, Cambridge, MA</i><br>“GW170817: Light Curves and Modeling”</td></tr>
+<tr><td>2017 Nov</td><td><i>High Energy Lunch Talk, Harvard, Cambridge, MA</i><br>“An r-process Kilonova Associated with the Gravitational Wave Event GW170817”</td></tr>
+<tr><td>2017 Oct</td><td><i>Thunch Talk, Princeton, Princeton, NJ</i><br>“GW170817: The Dawn of Joint Gravitational Wave and Electromagnetic Astronomy”</td></tr>
+<tr><td>2017 Oct</td><td><i>ITC Luncheon Talk, Harvard, Cambridge, MA</i><br>“GW170817: Light Curves and Modeling”</td></tr>
+<tr><td>2017 Oct</td><td><i>Monday Tea Talk, Caltech, Pasadena, CA</i><br>“GW170817: The First Joint Gravitational Wave and Electromagnetic Detection”</td></tr>
+<tr><td>2017 Oct</td><td><i>Lunch Talk, Carnegie Observatories, Pasadena, CA</i><br>“Deep and Rapid Optical Follow-Up of GW Triggers with DECam”</td></tr>
+<tr><td>2017 Oct</td><td><i>Astrophysics Seminar, Fermilab, Batavia, IL</i><br>“Deep and Rapid Optical Follow-Up of GW Triggers with DECam”</td></tr>
+<tr><td>2017 Sep</td><td><i>Theory Lunch, Northwestern University, Evanston, IL</i><br>“Deep and Rapid Optical Follow-Up of GW Triggers with DECam”</td></tr>
+<tr><td>2017 Sep</td><td><i>CTC Theory Lunch, UMD, College Park, MD</i><br>“Deep and Rapid Optical Follow-Up of GW Triggers with DECam”</td></tr>
+<tr><td>2017 Aug</td><td><i>INT Workshop and Conference, University of Washington, Seattle, WA</i><br>“Deep and Rapid Optical Follow-Up of GW Triggers with DECam”</td></tr>
+<tr><td>2017 Aug</td><td><i>INT Workshop and Conference, University of Washington, Seattle, WA</i><br>“Overview: EM Observations of Kilonovae”</td></tr>
+<tr><td>2016 Nov</td><td><i>Time-Domain Astronomy Workshop, Radcliffe Institute, Cambridge, MA</i><br>“Deep and Rapid Optical Follow-Up of GW Triggers with DECam”</td></tr>
+<tr><td>2016 Jun</td><td><i>GWPAW Workshop 2016, Cape Code, MA</i><br>“DECam Searches for Optical Counterparts to Gravitational Wave Events”</td></tr>
+<tr><td>2016 Apr</td><td><i>APS April Meeting 2016, Salt Lake City, UT</i><br>“Identifying Electromagnetic Counterparts to Gravitational Wave Triggers With DECam”</td></tr>
+<tr><td>2015 Jun</td><td><i>GWPAW Workshop 2015, Osaka, Japan</i><br>“A Comprehensive Study of Detectability and Contamination in Deep Rapid Optical Searches for Gravitational Wave Counterparts”</td></tr>
+<tr><td>2012 Aug</td><td><i>Summer REU Colloquium Series, Harvard-Smithsonian CfA, Cambridge, MA</i><br>“The Spitzer View of WISE selected blazars”</td></tr>
+      </table>
+
+      <h3>Professional Talks — Other</h3>
+      <table class="cv">
+  <col class="cv_spec" /> <col class="cv_content" />
+<tr><td>2015 Jun</td><td><i>GWPAW Workshop 2015, Osaka, Japan</i><br>“A Comprehensive Study of Detectability and Contamination in Deep Rapid Optical Searches for Gravitational Wave Counterparts”</td></tr>
+<tr><td>2013 Jan</td><td><i>221st AAS Meeting, Long Beach, CA</i><br>“Piercing the Continuum of WISE selected blazars”</td></tr>
+<tr><td>2012 Jun</td><td><i>Energetic Astronomy, JSI Workshop, Annapolis MD</i><br>“The Central Engine Structure of 3c120: Evidence for a Retrograde Black Hole or a Refilling Accretion Disk”</td></tr>
+      </table>
+
+
+
+      <h3>Teaching</h3>
+      <table class="cv">
+  <col class="cv_spec" /> <col class="cv_content" />
+      </table>
+
+
+
+      <h3>Outreach</h3>
+      <table class="cv">
+  <col class="cv_spec" /> <col class="cv_content" />
+      </table>
     </div>
   </body>
 </html>
+
 
 This publication list was generated using the amazing [worklog-tools](https://github.com/pkgw/worklog-tools/) and associated html/PDF templates created by [Peter K. G. Williams](https://newton.cx/~peter/). Check out his amazing contributions to scientific software!  
