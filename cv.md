@@ -23,8 +23,9 @@ Contact Information
 Education
 ---------
 + **Harvard University**, Cambridge, Massachusettes USA
-   * M.A., Astronomy (Spring 2015)
-   * Ph.D., Astronomy (Expected: Spring 2018)  
+   * A.M., Astronomy (Spring 2015)
+   * Ph.D., Astronomy (Expected: Spring 2018)
+       * Thesis Advisor: Edo Berger
 
 + **The University of Maryland at College Park**, College Park, Maryland USA
    * B.S., *Summa Cum Laude*, Astronomy with High Honors (Spring 2013)
@@ -32,7 +33,11 @@ Education
 
 Awards
 ------
++ **American Astronomical Society**
+   * Rodger Doxsey Travel Prize (2018)
+
 + **Harvard University**
+   * Harvard Horizons Finalist (2018, In Progress)
    * Merit Fellowship (2017–2018)
    * John Parker Bequest Grant (2017–2018)
    * John P. and Carol J. Merrill Graduate Fellow (2014–15)  
