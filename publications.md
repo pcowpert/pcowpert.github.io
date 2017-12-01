@@ -3,7 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
 <!-- This work is dedicated to the public domain. -->
 
 <!-- Peter Williams' HTML template for a publications list
@@ -18,6 +17,8 @@ I also haven't spent as much time beautifying this page as I have the LaTeX
 templates. My actual publication list is embedded in a Wordpress site that
 does a bunch of the CSS fanciness automatically, and it'd be a lot of work to
 extract all of that magic. -->
+
+
 
 <html>
   <head>
@@ -40,7 +41,7 @@ extract all of that magic. -->
   <body>
     <div id="container">
       <p>Complete list of my publications, updated as of
-Nov 16, 2017.
+Dec 1, 2017.
       <br>
       <br>
       First-author works have their <span style="font-weight: bold">titles in
@@ -50,15 +51,15 @@ Nov 16, 2017.
       My <a href="pscastro.com/cv">full CV</a> is also online.
 <a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets. I am an author on 28
 refereed publications (7 as first author), my <i>h</i>-index is
-17 and my refereed publications have 630 citations.
+18 and my refereed publications have 696 citations.
       </p>
 
 <!-- well this is less than ideal, but whatever. -->
 
 
       <table id="pwpubs">
-  <col id="pwpubs_date" /> <col id="pwpubs_ref" /> <col id="pwpubs_tauth" />
-  <col id="pwpubs_ads" /> <col id="pwpubs_arxiv" /> <col id="pwpubs_doi" /> <col id="pwpubs_direct" />
+	<col id="pwpubs_date" /> <col id="pwpubs_ref" /> <col id="pwpubs_tauth" />
+	<col id="pwpubs_ads" /> <col id="pwpubs_arxiv" /> <col id="pwpubs_doi" /> <col id="pwpubs_direct" />
 <tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Complete Ultraviolet, Optical, and Near-Infrared Light Curves of the Kilonova Associated with the Binary Neutron Star Merger GW170817: Homogenized Data Set, Analytic Models, and Physical Implications</span> <br><span class="pwpubs_auth">Villar et al.</span> • arxiv:1710.11576</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171011576V">abstract</a></td><td><a href="http://arxiv.org/abs/1710.11576">preprint</a></td><td></td><td></td></tr>
 <tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Improved constraints on H0 from a combined analysis of gravitational-wave and electromagnetic emission from GW170817</span> <br><span class="pwpubs_auth">Guidorzi et al.</span> • arxiv:1710.06426</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171006426G">abstract</a></td><td><a href="http://arxiv.org/abs/1710.06426">preprint</a></td><td></td><td></td></tr>
 <tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">How Many Kilonovae Can Be Found in Past, Present, and Future Survey Datasets?</span> <br><span class="pwpubs_auth">Scolnic et al.</span> • arxiv:1710.05845</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171005845S">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05845">preprint</a></td><td></td><td></td></tr>

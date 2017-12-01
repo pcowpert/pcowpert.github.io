@@ -17,7 +17,7 @@ rapid timescale transients.
 Contact Information
 -------------------
 + E-mail - pcowpert@cfa.harvard.edu
-+ Office - +617-495-4141 
++ Office - +617-495-4141
 + Post - 60 Garden Street, MS-10, Cambridge, MA 02138  
 
 Education
@@ -37,7 +37,7 @@ Awards
    * Rodger Doxsey Travel Prize (2018)
 
 + **Harvard University**
-   * Harvard Horizons Finalist (2018, In Progress)
+   * Harvard Horizons Finalist (2018)
    * Merit Fellowship (2017–2018)
    * John Parker Bequest Grant (2017–2018)
    * John P. and Carol J. Merrill Graduate Fellow (2014–15)  
@@ -70,7 +70,7 @@ Research Experience
 + **CRESST Summer Research Internship**, NASA/Goddard Space Flight Center
    * Visualizations of Merging Black Hole Binaries (Summer 2011)  
 
-Observational Experience 
+Observational Experience
 ------------------------
 + **Blanco Telescope**, Cerro Tololo Inter-American Observatory, Chile
    * DECam – DES-GW LIGO Follow-up (2017B Semester) – 20 hours
@@ -106,14 +106,14 @@ Teaching Experience
 
 Publication Summary
 -------------------
-As of November 16, 2017 I am an author on 28 refereed publications (7 as first author), my *h*-index 
-is 17 and my refereed publications have 630 citations.  
+As of December 1, 2017 I am an author on 28 refereed publications (7 as first author), my *h*-index
+is 18 and my refereed publications have 696 citations.  
 
 A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Presentation Summary
 --------------------
-As of November 9, 2017 I have given 19 presentations of which 16 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv_full.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
+As of December 1, 2017 I have given 19 presentations of which 16 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv_full.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
 
 References
 ----------
