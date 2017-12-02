@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-Below is a summary of my Curriculum Vitae as of October 30, 2017. You can also obtain a [PDF version](/files/pcowpert_cv_full.pdf) of this information. A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
+Below is a summary of my Curriculum Vitae as of December 1, 2017. You can also obtain a [PDF version](/files/pcowpert_cv_full.pdf) of this information. A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Research Interests
 ------------------
