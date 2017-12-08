@@ -106,14 +106,14 @@ Teaching Experience
 
 Publication Summary
 -------------------
-As of December 1, 2017 I am an author on 28 refereed publications (7 as first author), my *h*-index
-is 18 and my refereed publications have 696 citations.  
+As of December 8, 2017 I am an author on 27 refereed publications (7 as first author), my *h*-index
+is 18 and my refereed publications have 736 citations.  
 
 A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Presentation Summary
 --------------------
-As of December 1, 2017 I have given 19 presentations of which 16 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv_full.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
+As of December 8, 2017 I have given 21 presentations of which 18 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv_full.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
 
 References
 ----------
