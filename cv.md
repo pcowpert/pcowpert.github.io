@@ -8,7 +8,7 @@ Below is a summary of my Curriculum Vitae as of December 1, 2017. You can also o
 
 Research Interests
 ------------------
-+ Electromagnetic follow-up of graviatational wave events from Advanced LIGO and VIRGO.
++ Electromagnetic follow-up of gravitational wave events from Advanced LIGO and VIRGO.
 + Theoretical modeling of optical transients associated with binary neutron star mergers  (e.g., kilonovae).
 + General time-domain astrophysics: contamination in optical surveys, survey design and optimization,
 rapid timescale transients.
@@ -22,7 +22,7 @@ Contact Information
 
 Education
 ---------
-+ **Harvard University**, Cambridge, Massachusettes USA
++ **Harvard University**, Cambridge, Massachusetts USA
    * A.M., Astronomy (Spring 2015)
    * Ph.D., Astronomy (Expected: Spring 2018)
        * Thesis Advisor: Edo Berger
@@ -57,7 +57,7 @@ Awards
 Research Experience
 -------------------
 + **NSF Graduate Research Fellow**, Harvard University
-   * Optical Follow-Up of Graviational Wave Events (Fall 2013 to Present)  
+   * Optical Follow-Up of Gravitational Wave Events (Fall 2013 to Present)  
 
 + **REU Summer Research Internship**, Smithsonian Astrophysical Observatory
    * Infrared Spectroscopy of Blazars (Summer 2012)  
@@ -87,17 +87,17 @@ Observational Experience
 
 Mentoring Experience
 --------------------
-+ **Harvard University**, Cambridge, Massachusettes USA
++ **Harvard University**, Cambridge, Massachusetts USA
    *Research Advisor for Undergraduates*
    * Mahlet Shiferaw – Galaxy Catalogs for GW/EM Targeted Follow-Up (Summer 2017)
    * Samuel Liu – Data Science Techniques for Light Curve Analysis (Summer 2016)  
 
 Teaching Experience
 -------------------
-+ **Harvard University**, Cambridge, Massachusettes USA
++ **Harvard University**, Cambridge, Massachusetts USA
    *Graduate Teaching Fellow*
    * Astronomy 16 - Stellar and Planetary Astronomy  (Spring 2016)
-   * Astronomy 200 - Radiative Proceses  (Spring 2014)  
+   * Astronomy 200 - Radiative Processes  (Spring 2014)  
 
 + **University of Maryland, College Park**, College Park, Maryland USA
    *Undergraduate Teaching Assistant*
