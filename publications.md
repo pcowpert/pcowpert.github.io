@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<!-- This work is dedicated to the public domain. -->
+!-- This work is dedicated to the public domain. -->
 
 <!-- Peter Williams' HTML template for a publications list
 
@@ -42,7 +42,7 @@ extract all of that magic. -->
   <body>
     <div id="container">
       <p>Complete list of my publications, updated as of
-Dec 8, 2017.
+Dec 15, 2017.
       <br>
       <br>
       First-author works have their <span style="font-weight: bold">titles in
@@ -52,7 +52,7 @@ Dec 8, 2017.
       My <a href="pscastro.com/cv">full CV</a> is also online.
 <a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets. I am an author on 27
 refereed publications (7 as first author), my <i>h</i>-index is
-18 and my refereed publications have 736 citations.
+18 and my refereed publications have 768 citations.
       </p>
 
 <!-- well this is less than ideal, but whatever. -->
@@ -61,7 +61,7 @@ refereed publications (7 as first author), my <i>h</i>-index is
       <table id="pwpubs">
 	<col id="pwpubs_date" /> <col id="pwpubs_ref" /> <col id="pwpubs_tauth" />
 	<col id="pwpubs_ads" /> <col id="pwpubs_arxiv" /> <col id="pwpubs_doi" /> <col id="pwpubs_direct" />
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Complete Ultraviolet, Optical, and Near-Infrared Light Curves of the Kilonova Associated with the Binary Neutron Star Merger GW170817: Homogenized Data Set, Analytic Models, and Physical Implications</span> <br><span class="pwpubs_auth">Villar et al.</span> • arxiv:1710.11576</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171011576V">abstract</a></td><td><a href="http://arxiv.org/abs/1710.11576">preprint</a></td><td></td><td></td></tr>
+<tr><td>2017 Dec</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Combined Ultraviolet, Optical, and Near-infrared Light Curves of the Kilonova Associated with the Binary Neutron Star Merger GW170817: Unified Data Set, Analytic Models, and Physical Implications</span> <br><span class="pwpubs_auth">Villar et al.</span> • ApJL 851 L21</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...851L..21V">abstract</a></td><td><a href="http://arxiv.org/abs/1710.11576">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9c84">official</a></td><td></td></tr>
 <tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Improved constraints on H0 from a combined analysis of gravitational-wave and electromagnetic emission from GW170817</span> <br><span class="pwpubs_auth">Guidorzi et al.</span> • arxiv:1710.06426</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171006426G">abstract</a></td><td><a href="http://arxiv.org/abs/1710.06426">preprint</a></td><td></td><td></td></tr>
 <tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">How Many Kilonovae Can Be Found in Past, Present, and Future Survey Datasets?</span> <br><span class="pwpubs_auth">Scolnic et al.</span> • arxiv:1710.05845</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171005845S">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05845">preprint</a></td><td></td><td></td></tr>
 <tr><td>2017 Nov</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">A gravitational-wave standard siren measurement of the Hubble constant</span> <br><span class="pwpubs_auth">Abbott et al.</span> • Nature 551 85-88</td><td><a href="http://adsabs.harvard.edu/abs/2017Natur.551...85A">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05835">preprint</a></td><td><a href="http://dx.doi.org/10.1038/nature24471">official</a></td><td></td></tr>
