@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-!-- This work is dedicated to the public domain. -->
-
 <!-- Peter Williams' HTML template for a publications list
 
 Unlike the LaTeX template, I can't use variables to parametrize my name and
