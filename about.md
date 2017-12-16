@@ -9,7 +9,6 @@ permalink: /about/
 I am a fifth year graduate student at the Harvard-Smithsonian Center for Astrophysics. My research interests are mainly in the area of electromagnetic follow-up of gravitational wave events detected by the Advanced LIGO and VIRGO instruments. In a previous life I was a filmmaker and photographer, working in and around Baltimore, MD and Washington D.C. 
 
 
-<br>
 Contact Me
 -----------
 + E-mail - pcowpert@cfa.harvard.edu
