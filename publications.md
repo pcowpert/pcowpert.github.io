@@ -19,8 +19,6 @@ templates. My actual publication list is embedded in a Wordpress site that
 does a bunch of the CSS fanciness automatically, and it'd be a lot of work to
 extract all of that magic. -->
 
-
-
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -42,7 +40,7 @@ extract all of that magic. -->
   <body>
     <div id="container">
       <p>Complete list of my publications, updated as of
-Dec 15, 2017.
+May 15, 2018.
       <br>
       <br>
       First-author works have their <span style="font-weight: bold">titles in
@@ -50,9 +48,9 @@ Dec 15, 2017.
       <br>
       <br>
       My <a href="pscastro.com/cv">full CV</a> is also online.
-<a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets. I am an author on 27
+<a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets. I am an author on 31
 refereed publications (7 as first author), my <i>h</i>-index is
-18 and my refereed publications have 768 citations.
+21 and my refereed publications have 1437 citations.
       </p>
 
 <!-- well this is less than ideal, but whatever. -->
@@ -61,11 +59,15 @@ refereed publications (7 as first author), my <i>h</i>-index is
       <table id="pwpubs">
 	<col id="pwpubs_date" /> <col id="pwpubs_ref" /> <col id="pwpubs_tauth" />
 	<col id="pwpubs_ads" /> <col id="pwpubs_arxiv" /> <col id="pwpubs_doi" /> <col id="pwpubs_direct" />
+<tr><td>2018 May</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">A Decline in the X-ray through Radio Emission from GW170817 Continues to Support an Off-Axis Structured Jet</span> <br><span class="pwpubs_auth">Alexander et al.</span> • arxiv:1805.02870</td><td><a href="http://adsabs.harvard.edu/abs/2018arXiv180502870A">abstract</a></td><td><a href="http://arxiv.org/abs/1805.02870">preprint</a></td><td></td><td></td></tr>
+<tr><td>2018 May</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Open Astronomy Catalogs API</span> <br><span class="pwpubs_auth">Guillochon &amp; P.S. Cowperthwaite</span> • RNAAS 2 27</td><td><a href="http://adsabs.harvard.edu/abs/2018RNAAS...2...27G">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2515-5172/aac2c8">official</a></td><td></td></tr>
+<tr><td>2018 May</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>An Empirical Study of Contamination in Deep, Rapid, and Wide-field Optical Follow-up of Gravitational Wave Events</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite et al.</span> • ApJ 858 18</td><td><a href="http://adsabs.harvard.edu/abs/2018ApJ...858...18C">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/1538-4357/aabad9">official</a></td><td></td></tr>
+<tr><td>2018 Mar</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Binary Neutron Star Event LIGO/Virgo GW170817 160 Days after Merger: Synchrotron Emission across the Electromagnetic Spectrum</span> <br><span class="pwpubs_auth">Margutti et al.</span> • ApJ 856 L18</td><td><a href="http://adsabs.harvard.edu/abs/2018ApJ...856L..18M">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aab2ad">official</a></td><td></td></tr>
+<tr><td>2018 Feb</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">A Precise Distance to the Host Galaxy of the Binary Neutron Star Merger GW170817 Using Surface Brightness Fluctuations</span> <br><span class="pwpubs_auth">Cantiello et al.</span> • ApJ 854 L31</td><td><a href="http://adsabs.harvard.edu/abs/2018ApJ...854L..31C">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aaad64">official</a></td><td></td></tr>
+<tr><td>2018 Jan</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">How Many Kilonovae Can Be Found in Past, Present, and Future Survey Data Sets?</span> <br><span class="pwpubs_auth">Scolnic et al.</span> • ApJ 852 L3</td><td><a href="http://adsabs.harvard.edu/abs/2018ApJ...852L...3S">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9d82">official</a></td><td></td></tr>
 <tr><td>2017 Dec</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Combined Ultraviolet, Optical, and Near-infrared Light Curves of the Kilonova Associated with the Binary Neutron Star Merger GW170817: Unified Data Set, Analytic Models, and Physical Implications</span> <br><span class="pwpubs_auth">Villar et al.</span> • ApJL 851 L21</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...851L..21V">abstract</a></td><td><a href="http://arxiv.org/abs/1710.11576">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9c84">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Improved constraints on H0 from a combined analysis of gravitational-wave and electromagnetic emission from GW170817</span> <br><span class="pwpubs_auth">Guidorzi et al.</span> • arxiv:1710.06426</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171006426G">abstract</a></td><td><a href="http://arxiv.org/abs/1710.06426">preprint</a></td><td></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">How Many Kilonovae Can Be Found in Past, Present, and Future Survey Datasets?</span> <br><span class="pwpubs_auth">Scolnic et al.</span> • arxiv:1710.05845</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171005845S">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05845">preprint</a></td><td></td><td></td></tr>
+<tr><td>2017 Dec</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Improved Constraints on H &lt;SUB&gt;0&lt;/SUB&gt; from a Combined Analysis of Gravitational-wave and Electromagnetic Emission from GW170817</span> <br><span class="pwpubs_auth">Guidorzi et al.</span> • ApJ 851 L36</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...851L..36G">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aaa009">official</a></td><td></td></tr>
 <tr><td>2017 Nov</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">A gravitational-wave standard siren measurement of the Hubble constant</span> <br><span class="pwpubs_auth">Abbott et al.</span> • Nature 551 85-88</td><td><a href="http://adsabs.harvard.edu/abs/2017Natur.551...85A">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05835">preprint</a></td><td><a href="http://dx.doi.org/10.1038/nature24471">official</a></td><td></td></tr>
-<tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>An Empirical Study of Contamination in Deep, Rapid, and Wide-Field Optical Follow-Up of Gravitational Wave Events</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite et al.</span> • arxiv:1710.02144</td><td><a href="http://adsabs.harvard.edu/abs/2017arXiv171002144C">abstract</a></td><td><a href="http://arxiv.org/abs/1710.02144">preprint</a></td><td></td><td></td></tr>
 <tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. VIII. A Comparison to Cosmological Short-duration Gamma-Ray Bursts</span> <br><span class="pwpubs_auth">Fong et al.</span> • ApJL 848 L23</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..23F">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05438">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9018">official</a></td><td></td></tr>
 <tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. VII. Properties of the Host Galaxy and Constraints on the Merger Timescale</span> <br><span class="pwpubs_auth">Blanchard et al.</span> • ApJL 848 L22</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..22B">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05458">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa9055">official</a></td><td></td></tr>
 <tr><td>2017 Oct</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. VI. Radio Constraints on a Relativistic Jet and Predictions for Late-time Emission from the Kilonova Ejecta</span> <br><span class="pwpubs_auth">Alexander et al.</span> • ApJL 848 L21</td><td><a href="http://adsabs.harvard.edu/abs/2017ApJ...848L..21A">abstract</a></td><td><a href="http://arxiv.org/abs/1710.05457">preprint</a></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aa905d">official</a></td><td></td></tr>

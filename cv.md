@@ -4,14 +4,13 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-Below is a summary of my Curriculum Vitae as of December 15, 2017. You can also obtain a [PDF version](/files/pcowpert_cv_full.pdf) of this information. A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
+Below is a summary of my Curriculum Vitae as of May 15, 2017. You can also obtain a [PDF version](/files/pcowpert_cv_full.pdf) of this information. A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Research Interests
 ------------------
 + Electromagnetic follow-up of gravitational wave events from Advanced LIGO and VIRGO.
 + Theoretical modeling of optical transients associated with binary neutron star mergers  (e.g., kilonovae).
-+ General time-domain astrophysics: contamination in optical surveys, survey design and optimization,
-rapid timescale transients.
++ General time-domain astrophysics: contamination in optical surveys, survey design and optimization, rapid timescale transients.
 + Large-scale astronomy image processing and pipeline development for surveys.  
 
 Contact Information
@@ -24,19 +23,29 @@ Education
 ---------
 + **Harvard University**, Cambridge, Massachusetts USA
    * A.M., Astronomy (Spring 2015)
-   * Ph.D., Astronomy (Expected: Spring 2018)
-       * Thesis Advisor: Edo Berger
+   * Ph.D., Astronomy (Spring 2018)
+       * From Design to Detection: Joint Gravitational Wave and Electromagnetic Astronomy
+       * Advisor: Prof. Edo Berger
 
 + **The University of Maryland at College Park**, College Park, Maryland USA
    * B.S., *Summa Cum Laude*, Astronomy with High Honors (Spring 2013)
    * B.S., *Summa Cum Laude*, Physics (Spring 2013)  
 
+Positions
+---------
++ **Carnegie Observatories**, Pasadena, California USA
+   * NASA Hubble Postdoctoral Fellow, 2018-2021
+
 Awards
 ------
++ **National Aeronautics and Space Administration**
+   * Hubble Postdoctoral Fellow, 2018-2021
+
 + **American Astronomical Society**
    * Rodger Doxsey Travel Prize (2018)
 
 + **Harvard University**
+   * Fireman Thesis Prize (2018)
    * Harvard Horizons Finalist (2018)
    * Merit Fellowship (2017–2018)
    * John Parker Bequest Grant (2017–2018)
@@ -106,14 +115,13 @@ Teaching Experience
 
 Publication Summary
 -------------------
-As of December 15, 2017 I am an author on 27 refereed publications (7 as first author), my *h*-index
-is 18 and my refereed publications have 768 citations.  
+As of May 15, 2017 I am an author on 31 refereed publications (7 as first author), my *h*-index is 21 and my refereed publications have 1437 citations.  
 
 A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Presentation Summary
 --------------------
-As of December 15, 2017 I have given 21 presentations of which 18 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv_full.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
+As of May 15, 2017 I have given 24 presentations of which 21 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv_full.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
 
 References
 ----------
