@@ -15,9 +15,9 @@ Research Interests
 
 Contact Information
 -------------------
-+ E-mail - pcowpert@cfa.harvard.edu
-+ Office - +617-495-4141
-+ Post - 60 Garden Street, MS-10, Cambridge, MA 02138  
++ E-mail - pcowperthwaite@carnegiescience.edu
++ Office - TBD
++ Post - TBD
 
 Education
 ---------
@@ -26,6 +26,7 @@ Education
    * Ph.D., Astronomy (Spring 2018)
        * From Design to Detection: Joint Gravitational Wave and Electromagnetic Astronomy
        * Advisor: Prof. Edo Berger
+       * Awarded the Fireman Thesis Prize
 
 + **The University of Maryland at College Park**, College Park, Maryland USA
    * B.S., *Summa Cum Laude*, Astronomy with High Honors (Spring 2013)
@@ -66,18 +67,18 @@ Awards
 Research Experience
 -------------------
 + **NSF Graduate Research Fellow**, Harvard University
-   * Optical Follow-Up of Gravitational Wave Events (Fall 2013 to Present)  
+   * Optical Follow-Up of Gravitational Wave Events (2013 - 2018)  
 
 + **REU Summer Research Internship**, Smithsonian Astrophysical Observatory
-   * Infrared Spectroscopy of Blazars (Summer 2012)  
+   * Infrared Spectroscopy of Blazars (2012)  
 
 + **Undergraduate Research Assistant**, The University of Maryland, College Park
-   * Numerical Simulations of Accretion Flows (Fall 2012 - Summer 2013)
-   * X-Ray Spectroscopy of Active Galactic Nuclei (Fall 2010 - Spring 2012)
-   * Visualizations of Black Hole Accretion Flows (Spring 2010 - Fall 2010)  
+   * Numerical Simulations of Accretion Flows (2012 - 2013)
+   * X-Ray Spectroscopy of Active Galactic Nuclei (2010 - 2012)
+   * Visualizations of Black Hole Accretion Flows (2010)  
 
 + **CRESST Summer Research Internship**, NASA/Goddard Space Flight Center
-   * Visualizations of Merging Black Hole Binaries (Summer 2011)  
+   * Visualizations of Merging Black Hole Binaries (2011)  
 
 Observational Experience
 ------------------------
@@ -98,8 +99,8 @@ Mentoring Experience
 --------------------
 + **Harvard University**, Cambridge, Massachusetts USA
    *Research Advisor for Undergraduates*
-   * Mahlet Shiferaw – Galaxy Catalogs for GW/EM Targeted Follow-Up (Summer 2017)
-   * Samuel Liu – Data Science Techniques for Light Curve Analysis (Summer 2016)  
+   * Mahlet Shiferaw – Galaxy Catalogs for GW/EM Targeted Follow-Up (2017)
+   * Samuel Liu – Data Science Techniques for Light Curve Analysis (2016)  
 
 Teaching Experience
 -------------------
