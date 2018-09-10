@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+<!-- This work is dedicated to the public domain. -->
+
 <!-- Peter Williams' HTML template for a publications list
 
 Unlike the LaTeX template, I can't use variables to parametrize my name and
@@ -16,6 +18,8 @@ I also haven't spent as much time beautifying this page as I have the LaTeX
 templates. My actual publication list is embedded in a Wordpress site that
 does a bunch of the CSS fanciness automatically, and it'd be a lot of work to
 extract all of that magic. -->
+
+
 
 <html>
   <head>
@@ -38,7 +42,7 @@ extract all of that magic. -->
   <body>
     <div id="container">
       <p>Complete list of my publications, updated as of
-May 15, 2018.
+Sep 10, 2018.
       <br>
       <br>
       First-author works have their <span style="font-weight: bold">titles in
@@ -46,9 +50,9 @@ May 15, 2018.
       <br>
       <br>
       My <a href="pscastro.com/cv">full CV</a> is also online.
-<a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets. I am an author on 31
+<a href="http://labs.adsabs.harvard.edu/adsabs">ADS</a> citation counts are shown in square brackets. I am an author on 32
 refereed publications (7 as first author), my <i>h</i>-index is
-21 and my refereed publications have 1437 citations.
+23 and my refereed publications have 1972 citations.
       </p>
 
 <!-- well this is less than ideal, but whatever. -->
@@ -57,7 +61,8 @@ refereed publications (7 as first author), my <i>h</i>-index is
       <table id="pwpubs">
 	<col id="pwpubs_date" /> <col id="pwpubs_ref" /> <col id="pwpubs_tauth" />
 	<col id="pwpubs_ads" /> <col id="pwpubs_arxiv" /> <col id="pwpubs_doi" /> <col id="pwpubs_direct" />
-<tr><td>2018 May</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">A Decline in the X-ray through Radio Emission from GW170817 Continues to Support an Off-Axis Structured Jet</span> <br><span class="pwpubs_auth">Alexander et al.</span> • arxiv:1805.02870</td><td><a href="http://adsabs.harvard.edu/abs/2018arXiv180502870A">abstract</a></td><td><a href="http://arxiv.org/abs/1805.02870">preprint</a></td><td></td><td></td></tr>
+<tr><td>2018 Aug</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">A Decline in the X-Ray through Radio Emission from GW170817 Continues to Support an Off-axis Structured Jet</span> <br><span class="pwpubs_auth">Alexander et al.</span> • ApJ 863 L18</td><td><a href="http://adsabs.harvard.edu/abs/2018ApJ...863L..18A">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aad637">official</a></td><td></td></tr>
+<tr><td>2018 Jul</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Spitzer Space Telescope Infrared Observations of the Binary Neutron Star Merger GW170817</span> <br><span class="pwpubs_auth">Villar et al.</span> • ApJ 862 L11</td><td><a href="http://adsabs.harvard.edu/abs/2018ApJ...862L..11V">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aad281">official</a></td><td></td></tr>
 <tr><td>2018 May</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">Open Astronomy Catalogs API</span> <br><span class="pwpubs_auth">Guillochon &amp; P.S. Cowperthwaite</span> • RNAAS 2 27</td><td><a href="http://adsabs.harvard.edu/abs/2018RNAAS...2...27G">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2515-5172/aac2c8">official</a></td><td></td></tr>
 <tr><td>2018 May</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title"><b>An Empirical Study of Contamination in Deep, Rapid, and Wide-field Optical Follow-up of Gravitational Wave Events</b></span> <br><span class="pwpubs_auth">P.S. Cowperthwaite et al.</span> • ApJ 858 18</td><td><a href="http://adsabs.harvard.edu/abs/2018ApJ...858...18C">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/1538-4357/aabad9">official</a></td><td></td></tr>
 <tr><td>2018 Mar</td><td>»</td><td class="pwpubs_tauth"><span class="pwpubs_title">The Binary Neutron Star Event LIGO/Virgo GW170817 160 Days after Merger: Synchrotron Emission across the Electromagnetic Spectrum</span> <br><span class="pwpubs_auth">Margutti et al.</span> • ApJ 856 L18</td><td><a href="http://adsabs.harvard.edu/abs/2018ApJ...856L..18M">abstract</a></td><td></td><td><a href="http://dx.doi.org/10.3847/2041-8213/aab2ad">official</a></td><td></td></tr>

@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-Below is a summary of my Curriculum Vitae as of May 15, 2017. You can also obtain a [PDF version](/files/pcowpert_cv_full.pdf) of this information. A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
+Below is a summary of my Curriculum Vitae as of Sep 10, 2018. You can also obtain a [PDF version](/files/pcowpert_cv_full.pdf) of this information. A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Research Interests
 ------------------
@@ -15,9 +15,12 @@ Research Interests
 
 Contact Information
 -------------------
-+ E-mail - pcowperthwaite@carnegiescience.edu
-+ Office - TBD
-+ Post - TBD
+Carnegie Observatories  
+813 Santa Barbara St.  
+Pasadena, CA 91104
+
+E-mail - pcowperthwaite@carnegiescience.edu  
+Office - 203
 
 Education
 ---------
@@ -26,7 +29,7 @@ Education
    * Ph.D., Astronomy (Spring 2018)
        * From Design to Detection: Joint Gravitational Wave and Electromagnetic Astronomy
        * Advisor: Prof. Edo Berger
-       * Awarded the Fireman Thesis Prize
+       * Awarded the [Fireman Thesis Prize](https://astronomy.fas.harvard.edu/fireman-fellowship-graduate)
 
 + **The University of Maryland at College Park**, College Park, Maryland USA
    * B.S., *Summa Cum Laude*, Astronomy with High Honors (Spring 2013)
@@ -116,13 +119,13 @@ Teaching Experience
 
 Publication Summary
 -------------------
-As of May 15, 2017 I am an author on 31 refereed publications (7 as first author), my *h*-index is 21 and my refereed publications have 1437 citations.  
+As of Sep 10, 2018 I am an author on 32 refereed publications (7 as first author), my *h*-index is 23 and my refereed publications have 1972 citations.  
 
 A complete publications list can be found [on this page](/publications/) or as a [PDF version](/files/pcowpert_pubs.pdf).
 
 Presentation Summary
 --------------------
-As of May 15, 2017 I have given 24 presentations of which 21 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv_full.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
+As of Sep 10, 2018 I have given 26 presentations of which 23 have been talks and 3 have been posters. A complete listing of talks and posters can be found in the [PDF Version](/files/pcowpert_cv_full.pdf) of my CV. A PDF Version of just presentations can be found [here](/files/pcowpert_talks.pdf).
 
 References
 ----------
