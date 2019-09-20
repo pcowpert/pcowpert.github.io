@@ -1,22 +1,18 @@
-markdown: kramdown
-theme: minima
-
-gems:
-  - jekyll-feed
-
-title: Philip S. Cowperthwaite
+# Site settings
+title: Dr. Philip S. Cowperthwaite
 description: Connecting Gravitational Wave and Electromagnetic Astronomy
+url: "pcowpert.github.io"
 
-# Includes an icon in the footer for each username you enter
+# User settings
+username: Dr. Philip S. Cowperthwaite
+user_description:
+user_title: NASA Hubble Postdoctoral Fellow
 email: pcowperthwaite@carnegiescience.edu
-github_username: pcowpert
 twitter_username: PCowperthwaite
+github_username:  pcowpert
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: http://pcowpert.github.io
+# Google-analytics
+google-analytics:
+  id: ""
 
-# Exclude these files from your production _site
-exclude:
-    - LICENSE
-    - README.md
+exclude: ['package.json', 'src' , 'node_modules']
