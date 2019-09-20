@@ -5,14 +5,9 @@ url: "pcowpert.github.io"
 
 # User settings
 username: Dr. Philip S. Cowperthwaite
-user_description:
 user_title: NASA Hubble Postdoctoral Fellow
 email: pcowperthwaite@carnegiescience.edu
 twitter_username: PCowperthwaite
 github_username:  pcowpert
-
-# Google-analytics
-google-analytics:
-  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
