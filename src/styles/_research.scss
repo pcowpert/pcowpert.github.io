@@ -40,7 +40,13 @@
     width: 48%;
   }
 }
-
+.contents-left {
+  @media only screen and (min-width: $cut) {
+    float: left;
+    margin-top: -5%;
+    width: 48%;
+  }
+}
 .contents-right {
   @media only screen and (min-width: $cut) {
     float: right;
@@ -56,6 +62,7 @@
   img {
     @media only screen and (min-width: $cut) {
       float: right;
+      vertical-align: text-top;
     }
   }
 }
@@ -68,6 +75,7 @@
   img {
     @media only screen and (min-width: $cut) {
       float: left;
+      vertical-align: text-top;
     }
   }
 }
